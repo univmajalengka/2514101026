@@ -17,16 +17,6 @@ Website Informasi Wisata Cikadongdong River Tubing
 
 ---
 
-📁 Tentang Repository
-
-Repository ini digunakan untuk menyimpan, mengelola, dan mendokumentasikan hasil pengerjaan tugas mata kuliah Pengembangan Aplikasi Berbasis Web (PABW) di Universitas Majalengka.
-
-Repository berisi berkas kode program, aset gambar, dokumentasi, serta hasil pengembangan website yang dikerjakan sebagai bagian dari proses pembelajaran pengembangan web.
-
-Setiap folder digunakan untuk mengelompokkan proyek atau tugas berdasarkan materi dan pertemuan perkuliahan sehingga berkas lebih terstruktur, mudah dipahami, dan mudah dikembangkan kembali.
-
----
-
 🌿 Tentang Proyek
 
 Cikadongdong River Tubing merupakan website informasi wisata yang dirancang untuk memperkenalkan destinasi wisata river tubing Cikadongdong kepada masyarakat dan calon pengunjung.
@@ -101,33 +91,6 @@ Menyediakan menu navigasi untuk berpindah antarbagian halaman serta interaksi ta
 
 ---
 
-📂 Struktur Folder Proyek
-
-2514101026/
-├── README.md
-└── PABW/
-    └── Tugas Pertemuan 3/
-        ├── index.html
-        ├── style.css
-        ├── script.js
-        └── images/
-            ├── foto-utama.jpg
-            └── foto-wisata.jpg
-
-Keterangan:
-
-- "README.md" — dokumentasi utama repository yang menjelaskan identitas, tujuan, dan isi proyek.
-- "PABW/" — folder untuk mengelompokkan tugas mata kuliah Pengembangan Aplikasi Berbasis Web.
-- "Tugas Pertemuan 3/" — folder untuk menyimpan berkas proyek website sesuai pertemuan atau penamaan tugas yang ditetapkan.
-- "index.html" — berkas utama yang berisi struktur dan konten halaman website.
-- "style.css" — berkas untuk mengatur desain, warna, tata letak, dan responsivitas website.
-- "script.js" — berkas untuk mengatur interaksi dan fungsi berbasis JavaScript.
-- "images/" — folder untuk menyimpan foto dan gambar yang digunakan dalam website.
-
-Catatan: Struktur di atas merupakan rancangan. Nama folder, nama file, dan nama gambar harus disesuaikan dengan berkas proyek yang benar-benar digunakan.
-
----
-
 🎨 Konsep Desain
 
 Website menggunakan pendekatan desain modern dan informatif dengan perpaduan warna biru navy, putih, dan aksen kuning lemon pastel.
@@ -144,12 +107,6 @@ Tata letak dibuat agar informasi utama mudah ditemukan, sementara foto dan eleme
 - Membantu calon pengunjung memperoleh informasi wisata secara lebih terstruktur.
 - Menjadi sarana dokumentasi dan promosi wisata.
 - Menjadi latihan penerapan konsep pengembangan website dalam perkuliahan.
-
----
-
-📈 Pengembangan Selanjutnya
-
-Pengembangan website dapat dilanjutkan dengan penyempurnaan galeri foto, peningkatan aksesibilitas, optimalisasi tampilan perangkat mobile, pembaruan informasi wisata, dan penyempurnaan interaksi pengguna sesuai kebutuhan.
 
 ---
 
